@@ -1,5 +1,5 @@
 Instructions
-    1) npm install the project
+    1) run npm install
     2) run npm build
     3) run npm dev
     4) open localhost:9000 in your browser
