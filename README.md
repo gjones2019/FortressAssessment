@@ -12,3 +12,5 @@ Whether you got stuck anywhere?
     I got stuck setting up my environment. It has been a while since I have had to do that lol. Still fun nonetheless. 
 Notable design decisions you made?
     Notable decisions include compoleting the project without deploying due to time and technology constraints. I kept this project as simple as possible, and with more time and me not having a full time job during the day I would have made it look much nicer. I would love to explain more. Feel free to ask me anything.
+
+    Technology included: ReactJS, NodeJS, Css, Webpack, Babel, Git, Axios, HTML, Express
