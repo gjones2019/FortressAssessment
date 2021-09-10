@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import './App.css'
+
 
 const App = () => {
     const [data, setData] = useState([]);
-
     useEffect(() => {
         axios.get(
         'https://www.reddit.com/r/programmerhumor/top.json',
